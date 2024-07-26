@@ -1,10 +1,10 @@
 # [level 0] 최댓값 만들기 (1) - 120847 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120847) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=c) 
 
 ### 성능 요약
 
-메모리: 75.7 MB, 시간: 0.37 ms
+메모리: 4.25 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 11일 23:38:32
+2024년 07월 26일 20:17:08
 
 ### 문제 설명
 
