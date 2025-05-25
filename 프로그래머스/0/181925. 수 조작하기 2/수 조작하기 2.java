@@ -1,0 +1,17 @@
+class Solution {
+    public String solution(int[] numLog) {
+        StringBuilder answer = new StringBuilder();
+        for(int i = 0; i < numLog.length - 1; i++){
+            if(numLog[i] + 1 == numLog[i+1]){
+                answer.append("w");
+            }else if(numLog[i] - 1 == numLog[i+1]){
+                answer.append("s");
+            }else if(numLog[i] + 10 == numLog[i+1]){
+                answer.append("d");
+            }else if(numLog[i] - 10 == numLog[i+1]){
+                answer.append("a");
+            }
+        }
+        return answer.toString();
+    }
+}
